@@ -1,6 +1,6 @@
 # Demo-Digimon-IoT
 
-![](https://github.com/luisllamasbinaburo/Demo-Digimon-IoT/raw/main/Images/ll-reto-digimon.png)
+![](https://github.com/luisllamasbinaburo/Demo-Digimon-IoT/raw/main/Images/lll-reto-digimon.png)
 
 Ficheros de la Demostración de IoT, aprovechando el Reto de programación de Digimon
 
@@ -25,8 +25,9 @@ Por ejemplo, el Api REST que hemos simulado sería mucho más complejo (más acc
 ## Resultado
 
 Aquí tenéis el resultado, ejecutandose en el M5 Stack Core 2
+
 ![](https://github.com/luisllamasbinaburo/Demo-Digimon-IoT/raw/main/Images/m5stack-core-2.jpg)
 
 Y en el M5Paper
-![](https://github.com/luisllamasbinaburo/Demo-Digimon-IoT/raw/main/Images/m5paper.jpg)
 
+![](https://github.com/luisllamasbinaburo/Demo-Digimon-IoT/raw/main/Images/m5paper.jpg)
